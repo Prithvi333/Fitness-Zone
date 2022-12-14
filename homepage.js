@@ -12,3 +12,4 @@ clik.addEventListener("click",()=>{
     isture=true
    }
 })
+
