@@ -7,6 +7,10 @@
     align-items: center;
     justify-content: center;
     border: 2px solid green;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    z-index: 1;
 }
 #header >ul{
     display: flex;
@@ -23,7 +27,7 @@
   text-decoration-color: #2196F3;
   text-decoration-thickness: 3px;
 }
- #images{
+ .images{
     width: 100px;
     border-radius: 50px;
     cursor: pointer;
@@ -42,18 +46,9 @@
     align-items: center;
     color: white;
     background-color: #212432;
-    /* margin-top: 19px; */
     display:none;
-    /* animation: run 0.8s ease-in 0.3s */
 }
-/* @keyframes run {
-   from {
-   height: 0px;
-    }
-    to{
-       height: 220px;
-    }
-} */
+
 
 .items{
     color: white;
@@ -78,16 +73,72 @@
     width:80px ;
 }
 #third_img{
-    width: 119px;
+    width: 103px;
 }
 .banner{
-
+    background-image: url(https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZpdG5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=1920&h=900&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 100vw;
-    height: 550px;
+    height: 65vh;
     border: 2px solid black;
+    background-color: #E8EAF6;
+    margin-bottom: 100px;
+
 }
-.banner >img{
+/* .banner >img{
     width: 100%;
     height: 100%;
     border: 2px solid black;
+} */
+.grid-style{
+    width: 70%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    padding: 70px;
+    border: 2px solid black;
+    margin-bottom: 80px;
+    background-color: #E8EAF6;
+    border-radius: 15px;
+    
+}
+#upper{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 69%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #EDE7F6;
+}
+#pic{
+    width: 300px;
+    margin-bottom: 20px;
+}
+#sub{
+    line-height: 1.4;
+    padding: 10px;
+    padding-bottom: 70px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background-color: white;
+    
+}
+#sub:hover{
+    transform: scale(1.1);
+    transition: all 0.8s ease-in-out 0.1s;
+    cursor: pointer;
+
+}
+
+.blue{
+    color: #1565C0;
+}
+.lblue{
+    color: #2196F3;
+}
+#fix{
+    background-color: #FFEBEE;
 }
