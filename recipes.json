@@ -1,0 +1,163 @@
+{
+    "recipes": [
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1269-banana-and-almond-snack-ab08.jpg",
+         "text":"Banana and Almonds Snack",
+         "para":"Delicious and healthy",
+         "time":"Healthy Recipes",
+         "type":"Free"
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1081-shakshuka-breakfast-pizza-aea2.jpg",
+         "text":"Shakshuka Breakfast Pizza",
+         "para":"North-African and Middle Eastern Inspired",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1219-bbq-chicken-sandwich-9bef.jpg",
+         "text":"BBQ Chicken Sandwich",
+         "para":"With Kale, Tomatoes, and Cheddar",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1289-baked-chicken-and-rice-casserole-a7bc.jpg",
+         "text":"Baked Chicken and Rice Casserole",
+         "para":"With Garlic Sauce and Bread crumb Topping",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1301-rustic-red-rice-98e5.jpg",
+         "text":"Rustic Red Rice",
+         "para":"With Onion, Peppers, and Tomatoes",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1229-egg-and-sun-dried-tomato-stuffed-zucchini-a0db.jpg",
+         "text":"Egg and Sun-Dried Tomato Stuffed Zucchini",
+         "para":"Mediterranean-Inspired Breakfast or Brunch",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1233-easy-salmon-patties-9197.jpg",
+         "text":"Easy Salmon Patties",
+         "para":"With Tzatziki Sauce and Roasted Zucchini",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1232-one-pan-lemon-artichoke-chicken-9656.jpg",
+         "text":"One-Pan Lemon Artichoke Chicken",
+         "para":"With Brown Rice and Kale",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1226-chicken-berry-salad-aae9.jpg",
+         "text":"Chicken Berry Salad",
+         "para":"With Lemon Pepper Dressing",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1231-hummus-breakfast-bowl-83f9.jpg",
+         "text":"Hummus Breakfast Bowl",
+         "para":"With Veggies, Feta, and a Fried Egg",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1224-breakfast-fried-rice-aa9c.jpg",
+         "text":"Breakfast Fried Rice",
+         "para":" With Eggs and Veggies",
+         "time":"Healthy Recipes",
+         "type":"Free"
+         
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1237-vegetarian-tex-mex-tacos-94c2.jpg",
+         "text":"Vegetarian Tex-Mex Tacos",
+         "para":"With Roasted Chickpeas and Homemade BBQ Sauce",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1238-tomato-and-chickpea-soup-80bb.jpg",
+         "text":"Tomato and Chickpea Soup",
+         "para":"Healthy Vegetarian Lunch",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1223-blueberry-and-kale-protein-smoothie-816a.jpg",
+         "text":"Blueberry and Kale Protien Smoothie",
+         "para":"With Yogurt, Nut Butter, and Honey",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1225-salmon-broccoli-breakfast-wrap-9072.jpg",
+         "text":"Salmon Broccoli Breakfast Wrap",
+         "para":"With Egg Whites and Cheddar Cheese",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1070-lemon-basil-zucchini-8408.jpg",
+         "text":"Steamed Zucchini with Lemon and Basil",
+         "para":"Simple Summer Squash Side Dish",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+         
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1053-broccoli-caesar-side-dish-8483.jpg",
+         "text":"Broccoli Caesar Side Dish",
+         "para":"With Healthy Homemade Dressing",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1076-roasted-steakhouse-potatoes-9c4b.jpg",
+         "text":"Roasted steakhouse Potatoes",
+         "para":"Seasoned With Dijon and Garlic",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1069-italian-side-salad-aa4d.jpg",
+         "text":"Italian Side Salad",
+         "para":"With Balsamic Dressing and Mediterranean Herbs",
+         "time":"Healthy Recipes",
+         "type":"Free"
+ 
+     },
+     {
+         "image":"https://d18zdz9g6n5za7.cloudfront.net/blog/640/640-1175-lemon-basil-steamed-greens-9472.jpg",
+         "text":"Lemon Basil Steamed Greens",
+         "para":"Spicy and Green",
+         "time":"Healthy Recipes",
+         "type":"Paid"
+ 
+     }
+     ]
+ }

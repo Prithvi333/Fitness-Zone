@@ -126,7 +126,7 @@
     background-color: #EDE7F6;
 }
 #pic{
-    width: 198px;
+    width: 100%;
     margin-bottom: 20px;
 }
 #sub{
@@ -403,4 +403,48 @@ border: 4px solid #03A9F4;
 }
 #mid-part a:hover{
     text-decoration: underline;
+}
+#article{
+    width: 80%;
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 40px;
+}
+.a3{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 17px;
+    border: 2px solid black;
+    background-color: #E0E0E0;
+}
+#a1 h1{
+    margin-bottom: 35px;
+}
+#a1 p{
+    margin-bottom: 20px;
+}
+#a2{
+    margin-bottom: 10px;
+}
+#a2 input{
+    padding: 5px;
+    margin-bottom: 20px;
+}
+#a2  button{
+    padding: 6px 15px;
+    border-radius: 5px;
+    background-color: #212432;
+    color: #fff;
+    transition:background-color 0.2s ease-in
+}
+#a2  button:hover{
+    cursor: pointer;
+    background-color: #E3F2FD;
+    color: #212432;
+}
+
+#str{
+  border-radius: 10px;
+  color: #8BC34A;
+  border: none;
 }
